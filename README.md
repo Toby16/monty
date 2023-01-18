@@ -1,16 +1,11 @@
-# :snake: Monty Interpreter => (Group Project)
+# :snake: Monty Interpreter :(Group Project)
 
 ## :blue_book: *Collaborator(s)*
 
 	:Baasit Bolaji Ayomiposi - [@Toby16](https://github.com/Toby16)
 
 
-
-## :running: Getting Started
-
-
 ## C - Stacks, Queues - LIFO, FIFO
-
 
 ## *General*
 
