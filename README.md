@@ -1,4 +1,4 @@
-# :snake: Monty Interpreter :(Group Project)
+# :snake: Monty Interpreter (Group Project)
 
 ## :blue_book: *Collaborator(s)*
 
