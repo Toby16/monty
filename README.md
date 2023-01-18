@@ -1,6 +1,6 @@
 # :snake: Monty Interpreter => (Group Project)
 
-## :blue_book: Collaborator(s)
+## :blue_book: *Collaborator(s)*
 
 * **Baasit Bolaji Ayomiposi** - [@Toby16](https://github.com/Toby16)
 
