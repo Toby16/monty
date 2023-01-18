@@ -2,7 +2,7 @@
 
 ## :blue_book: *Collaborator(s)*
 
-* **Baasit Bolaji Ayomiposi** - [@Toby16](https://github.com/Toby16)
+	:Baasit Bolaji Ayomiposi - [@Toby16](https://github.com/Toby16)
 
 
 
