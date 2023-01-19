@@ -1,5 +1,4 @@
-#include "main.h"
-
+#include "monty.h"
 /**
  * fill_numbase_buff - fills buffer with correct numbers up to base 36
  * @num: number to convert to string given base
