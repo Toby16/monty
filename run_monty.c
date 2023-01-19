@@ -1,5 +1,7 @@
 #include "monty.h"
 
+int run_monty(FILE *script_fd);
+
 /**
  * run_monty - Primary function to execute a Monty bytecodes script
  * @script_fd: File descriptor for an open Monty bytecodes script
