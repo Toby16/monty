@@ -1,5 +1,7 @@
 #include "monty.h"
 
+char **strtow(char *str, char *delim);
+
 /**
  * strtow - takes a string and seperates its words
  * @str: string to seperate into words
