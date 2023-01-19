@@ -91,5 +91,10 @@ void fill_numbase_buff(unsigned int num, unsigned int base,
 		       char *buff, int buff_size);
 int is_empty_line(char *line, char *delims);
 void (*get_op_func(char *opcode))(stack_t**, unsigned int);
+char **strtow(char *str, char *delims);
+int is_delim(char ch, char *delims);
+int get_word_length(char *str, char *delims);
+int get_word_count(char *str, char *delims);
+char *get_next_word(char *str, char *delims);
 
 #endif
