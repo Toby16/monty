@@ -1,4 +1,4 @@
-#include "monty"
+#include "monty.h"
 
 /**
  * div_error - division error messages for division by zero (0)
