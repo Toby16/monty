@@ -1,4 +1,4 @@
-#include "main.h"
+#include "monty.h"
 
 /**
  * monty_pall - Prints the values of a stack_t linked list
